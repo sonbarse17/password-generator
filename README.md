@@ -15,4 +15,4 @@ A sleek, modern web application to generate secure, random passwords based on cu
 
 ## 🌐 Live Demo
 
-👉 [View Live Website]([https://sushantsonbarse.github.io/password-generator/](https://sonbarse17.github.io/password-generator/))
+👉 [View Live Website]([https://sushantsonbarse.github.io/password-generator/])
